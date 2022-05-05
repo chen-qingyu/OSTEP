@@ -17,6 +17,5 @@
 7. Short time (31 => 21). Because both CPU and IO is used.![img](https://gitee.com/ChobitsY/ostep/raw/master/Chapter%204/images/7.png)
 
 8. IO_RUN_IMMEDIATE vs. IO_RUN_LATER: almost equal. Sometimes IO_RUN_IMMEDIATE better. 
-
+   
    SWITCH_ON_IO better than SWITCH_ON_END.
-
