@@ -1,8 +1,6 @@
 ## Operating Systems: Three Easy Pieces Homework
 
-《操作系统导论》作业习题。
-
-这是 [Operating Systems: Three Easy Pieces](http://www.ostep.org/) 的习题解答。
+这是 [Operating Systems: Three Easy Pieces](http://www.ostep.org/) 的作业习题解答。
 
 中译本叫《操作系统导论》，但我是看的英文原版PDF做的，因为中译本有些地方翻译得不全。
 
@@ -18,12 +16,9 @@
 
 *Note: Sometimes the first line of the homework Python-script is `#! /usr/bin/env python`, and it should be changed to `#! /usr/bin/env python3`*.
 
-> **Operating Systems: Three Easy Pieces**
-
+> Operating Systems: Three Easy Pieces
 > Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
-
 > Arpaci-Dusseau Books
-
 > August, 2018 (Version 1.00)
 
 Website：http://www.ostep.org/
